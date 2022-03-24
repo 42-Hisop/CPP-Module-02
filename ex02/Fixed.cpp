@@ -182,6 +182,5 @@ const Fixed&	Fixed::max(const Fixed &num1, const Fixed &num2)
 
 Fixed::~Fixed(void)
 {
-	std::cout << "Destructor called" << std::endl;
 	return ;
 }
